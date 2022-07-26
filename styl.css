@@ -53,6 +53,11 @@ font-size: 20px;
 }
 
 
+.dezertywrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
 
 
 
