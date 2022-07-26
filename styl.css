@@ -19,14 +19,10 @@ h3{background-color: red;
 text-align:center;
 color: aliceblue;}
 
-
-td, th {
-    border: 1px solid black;
+.ikonka{
+    height: 100px;
 }
 
-aside {float: right;
+.ikona{
+    height:90px ;
 }
-nav {border: 1px solid rgb(255, 0, 0); 
-padding: 50px;
-background-color: aliceblue;
-text-align: right;}
