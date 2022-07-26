@@ -23,8 +23,13 @@ color: rgb(255, 255, 255);}
     height: 100px;
 }
 
+<<<<<<< Updated upstream
 .ikona{
     height:90px ;
+=======
+td, th {
+    border: 1px solid black;
+>>>>>>> Stashed changes
 }
 
 aside {float: left;
