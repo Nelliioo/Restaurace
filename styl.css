@@ -16,7 +16,14 @@ text-align: center;
 color: rgb(255, 255, 255);}
 
 h3{background-color: red;
+<<<<<<< Updated upstream
 text-align:center;
 color: aliceblue;}
 
 
+=======
+text-align:center}
+td, th {
+    border: 1px solid black;
+}
+>>>>>>> Stashed changes
