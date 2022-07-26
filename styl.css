@@ -17,16 +17,18 @@ color: rgb(255, 255, 255);}
 
 h3{background-color: red;
 text-align:center;
-color: aliceblue;}
+color: rgb(255, 255, 255);}
 
 
 td, th {
     border: 1px solid black;
 }
 
-aside {float: right;
+aside {float: left;
 }
 nav {border: 1px solid rgb(255, 0, 0); 
 padding: 50px;
-background-color: aliceblue;
-text-align: right;}
+background-color: rgb(255, 255, 255);
+font-size: 20px;
+}
+
