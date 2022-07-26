@@ -12,6 +12,7 @@ border-style: double;
 border-width: 20px; 
 
 }
-
-h2{background-color: red}
-h3{background-color: red}
+h2{background-color: red;
+text-align: center}
+h3{background-color: red;
+text-align:center}
