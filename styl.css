@@ -19,9 +19,12 @@ h3{background-color: red;
 text-align:center;
 color: rgb(255, 255, 255);}
 
+.ikonka{
+    height: 100px;
+}
 
-td, th {
-    border: 1px solid black;
+.ikona{
+    height:90px ;
 }
 
 aside {float: left;
@@ -31,4 +34,7 @@ padding: 50px;
 background-color: rgb(255, 255, 255);
 font-size: 20px;
 }
+
+
+
 
