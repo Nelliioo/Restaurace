@@ -28,11 +28,6 @@ h3 {
     color: rgb(255, 255, 255);
 }
 
-
-
-
-
-
 .ikonka {
     height: 90px;
 }
@@ -44,7 +39,7 @@ h3 {
 
 td,
 th {
-    border: 1px solid rgb(255, 0, 0);
+    border: 2px solid rgb(255, 0, 0);
 }
 
 .ikona {
@@ -57,10 +52,14 @@ aside {
 }
 
 nav {
-    border: 1px solid rgb(255, 0, 0);
+    border: 2px solid rgb(255, 0, 0);
     padding: 50px;
+    width: 75px;
+    height: 100px;
     background-color: rgb(255, 255, 255);
     font-size: 20px;
+    text-align: center;
+
 }
 
 .menuwrapper {
@@ -120,7 +119,7 @@ nav {
 
 .border img {
     border: 2px solid red;
-    margin: 15px;
+    margin: 0 15px;
 }
 
 a {
