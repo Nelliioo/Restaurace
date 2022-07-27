@@ -136,6 +136,11 @@ nav {
     margin: 0 15px;
 }
 
+.blackborder {
+    border: 1px solid black;
+    margin: 0 15px;
+}
+
 a {
     color: red;
 }
