@@ -16,7 +16,6 @@ h1 {
     border-color: rgb(255, 255, 255);
 }
 
-<<<<<<< Updated upstream
 h2 {
     background-color: rgb(255, 0, 0);
     text-align: center;
@@ -37,55 +36,48 @@ h3 {
 .ikona {
     height: 100px;
 
-=======
-.ikona{
-    height:90px ;
->>>>>>> Stashed changes
-}
-
-
-<<<<<<< Updated upstream
-.ikona {
-    height: 90px;
-}
-
-td,
-th {
-    border: 1px solid rgb(255, 0, 0);
-}
-
-.ikona {
-    height: 90px;
-
-}
-
-aside {
-    float: left;
-}
-
-nav {
-    border: 1px solid rgb(255, 0, 0);
-    padding: 50px;
-    background-color: rgb(255, 255, 255);
-    font-size: 20px;
-}
-
-.menuwrapper {
-    display: flex;
-    justify-content: space-between;
-}
-
-
-.dezertywrapper {
-    display: flex;
-    justify-content: space-between;
-}
-=======
-.onaswrapper {
-    display: flex;
-    justify-content: center;
+    .ikona {
+        height: 90px;
     }
 
 
+    .ikona {
+        height: 90px;
+    }
 
->>>>>>> Stashed changes
+    td,
+    th {
+        border: 1px solid rgb(255, 0, 0);
+    }
+
+    .ikona {
+        height: 90px;
+
+    }
+
+    aside {
+        float: left;
+    }
+
+    nav {
+        border: 1px solid rgb(255, 0, 0);
+        padding: 50px;
+        background-color: rgb(255, 255, 255);
+        font-size: 20px;
+    }
+
+    .menuwrapper {
+        display: flex;
+        justify-content: space-between;
+    }
+
+
+    .dezertywrapper {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .onaswrapper {
+        display: flex;
+        justify-content: center;
+    }
