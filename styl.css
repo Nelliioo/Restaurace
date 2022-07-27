@@ -43,7 +43,10 @@ h5 {
 
 }
 
+.center {
+    text-align: center;
 
+}
 
 
 .ikonka {
@@ -60,10 +63,6 @@ h5 {
 td,
 th {
     border: 2px solid rgb(255, 0, 0);
-    text-align: center;
-}
-
-table {
     text-align: center;
 }
 
@@ -165,4 +164,3 @@ a {
     display: flex;
     justify-content: space-between;
 }
-
