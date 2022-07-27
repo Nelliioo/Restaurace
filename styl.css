@@ -44,7 +44,9 @@ h5 {
 }
 
 .center {
-    text-align: center;
+    /* text-align: center; */
+    position: absolute;
+    left: 45%;
 
 }
 
