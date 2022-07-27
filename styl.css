@@ -122,3 +122,7 @@ nav {
     border: 2px solid red;
     margin: 15px;
 }
+
+a {
+    color: red;
+}
