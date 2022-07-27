@@ -66,16 +66,19 @@ nav {
 .menuwrapper {
     display: flex;
     justify-content: space-between;
+    border: 2px solid rgb(255, 0, 0)
 }
 
 
 .dezertywrapper {
     display: flex;
     justify-content: space-between;
+    border: 2px solid rgb(255, 0, 0)
 }
 
 .onaswrapper {
     display: flex;
     justify-content: space-between;
     flex-direction: row-reverse;
+
 }
