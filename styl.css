@@ -130,3 +130,8 @@ a {
 .white {
     color: white;
 }
+
+.mapawrapper {
+    display: flex;
+    justify-content: space-between;
+}
