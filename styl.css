@@ -77,5 +77,5 @@ nav {
 .onaswrapper {
     display: flex;
     justify-content: space-between;
-    justify-content: row-reverse;
+    flex-direction: row-reverse;
 }
