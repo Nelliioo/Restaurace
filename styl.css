@@ -78,7 +78,6 @@ nav {
 
 .onaswrapper {
     display: flex;
-<<<<<<< HEAD
   /*   justify-content: space-between;
    flex-direction: row-reverse;*/
 }
@@ -86,7 +85,6 @@ nav {
     display: flex;
      justify-content: space-between;
    flex-direction: row-reverse;
-=======
     justify-content: space-between;
     flex-direction: row-reverse;
 
@@ -108,5 +106,4 @@ nav {
     display: flex;
     justify-content: space-between;
 
->>>>>>> b9ad5a9bd060ebcc6f1d54bd4a4f41212397634d
 }
