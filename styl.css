@@ -40,6 +40,7 @@ h4 {
 h5 {
     text-align: center;
     color: grey;
+
 }
 
 
@@ -145,6 +146,7 @@ nav {
 .blackborder {
     border: 1px solid black;
     margin: 0 15px;
+    padding: 15px;
 }
 
 a {
