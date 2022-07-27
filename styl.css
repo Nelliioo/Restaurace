@@ -28,6 +28,21 @@ h3 {
     color: rgb(255, 255, 255);
 }
 
+<<<<<<< HEAD
+h4 {
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+
+
+
+
+
+
+=======
+>>>>>>> 0eb2a52a17c9b63a56035abe1e9a0fb96783f679
 .ikonka {
     height: 90px;
 }
