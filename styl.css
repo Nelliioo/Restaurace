@@ -1,50 +1,67 @@
-body {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 
 h1 {
-font-size: 80px;
-color: rgb(255, 0, 0);
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-text-align: center; 
-background-image: url(Restaurant.jpg);
-padding: 100px;
-height: 100px;
-margin: 40px;
-border-style: double; border-width: 20px; border-color: rgb(255, 255, 255);}
+    font-size: 80px;
+    color: rgb(255, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-image: url(Restaurant.jpg);
+    padding: 100px;
+    height: 100px;
+    margin: 40px;
+    border-style: double;
+    border-width: 20px;
+    border-color: rgb(255, 255, 255);
+}
 
-h2{background-color: rgb(255, 0, 0);
-text-align: center;
-color: rgb(255, 255, 255);}
+h2 {
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
 
-h3{background-color: red;
-text-align:center;
-color: rgb(255, 255, 255);}
+h3 {
+    background-color: red;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
 
-.ikonka{
+.ikonka {
     height: 100px;
 }
 
 
-.ikona{height:100px ;
-
-}
-    
-
-.ikona{
-    height:90px ;}
-
-td, th {
-    border: 1px solid rgb(255, 0, 0);}
-.ikona{
-    height:90px ;
+.ikona {
+    height: 100px;
 
 }
 
-aside {float: left;
+
+.ikona {
+    height: 90px;
 }
-nav {border: 1px solid rgb(255, 0, 0); 
-padding: 50px;
-background-color: rgb(255, 255, 255);
-font-size: 20px;
+
+td,
+th {
+    border: 1px solid rgb(255, 0, 0);
+}
+
+.ikona {
+    height: 90px;
+
+}
+
+aside {
+    float: left;
+}
+
+nav {
+    border: 1px solid rgb(255, 0, 0);
+    padding: 50px;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
 }
 
 .menuwrapper {
@@ -53,12 +70,7 @@ font-size: 20px;
 }
 
 
-
-
-
-
-
-
-
-
-
+.dezertywrapper {
+    display: flex;
+    justify-content: space-between;
+}
