@@ -58,6 +58,10 @@ font-size: 20px;
     justify-content: space-between;
 }
 
+.onaswrapper {
+    display: flex;
+    justify-content: space-between;
+}
 
 
 
