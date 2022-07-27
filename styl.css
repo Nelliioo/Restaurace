@@ -82,3 +82,21 @@ nav {
     flex-direction: row-reverse;
 
 }
+
+.prilohywrapper {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.alkoholickewrapper {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.nealkoholickewrapper {
+    display: flex;
+    justify-content: space-between;
+
+}
