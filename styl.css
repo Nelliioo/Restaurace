@@ -114,3 +114,7 @@ nav {
     justify-content: space-between;
 
 }
+
+.border {
+    border: 2px solid red
+}
