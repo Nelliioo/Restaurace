@@ -79,7 +79,3 @@ nav {
     justify-content: space-between;
     flex-direction: row-reverse;
 }
-
-img {
-    border: 2px solid rgb(255, 0, 0)
-}
