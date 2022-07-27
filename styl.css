@@ -108,3 +108,9 @@ nav {
     justify-content: space-between;
 
 }
+
+.polevkywrapper {
+    display: flex;
+    justify-content: space-between;
+
+}
