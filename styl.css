@@ -78,10 +78,6 @@ th {
     text-align: center;
 }
 
-.ikona {
-    height: 90px;
-
-}
 
 aside {
     float: left;
@@ -154,6 +150,11 @@ nav {
     display: flex;
     justify-content: space-between;
 
+}
+
+.aborder img {
+    border: 2px solid red;
+    margin: 0 15px;
 }
 
 .border img {
